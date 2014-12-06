@@ -1,4 +1,4 @@
-# Mindvalley Steam
+# Mindvalley Maze
 
 Welcome to our team page! Tristan is from the Philippines, and Yamen is from Syria, but they're working together in Kuala Lumpur Malaysia in this awesome place called [Mindvalley](http://www.mindvalley.com) :)
 
